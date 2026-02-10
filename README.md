@@ -1,4 +1,4 @@
-# Harbr.xyz 🧠
+# Harbr.xyz 
 
 **Harbr lets you bet on NFT trends and topics—think Polymarket, but entirely focused on NFTs.**  
 Built on Monad testnet, designed for accuracy, conviction, and community.
