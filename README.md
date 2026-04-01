@@ -1,7 +1,7 @@
 # Harbr.xyz 
 
 **Harbr lets you bet on NFT trends and topics—think Polymarket, but entirely focused on NFTs.**  
-Built on Monad testnet, designed for accuracy, conviction, and community.
+Built on Base testnet, designed for accuracy, conviction, and community.
 
 ---
 
@@ -13,7 +13,7 @@ Harbr is not just another marketplace - it’s **a decentralized trend predictio
 - Discuss each market with other users.
 - Earn MON tokens for being right.
 
-Built on **Monad testnet**, Harbr delivers high-speed, low-cost transactions with trustless escrow smart contracts.
+Built on **Base testnet**, Harbr delivers high-speed, low-cost transactions with trustless escrow smart contracts.
 
 ---
 
@@ -36,7 +36,7 @@ Built on **Monad testnet**, Harbr delivers high-speed, low-cost transactions wit
 - 🔁 Real-time discussion and insight-sharing for each market.
 - 🧩 Built-in recommendation engine.
 - 🪙 Smart-contract escrow in MON with transparent fee and payout flows.
-- ⚡ Designed for speed and scale on Monad testnet.
+- ⚡ Designed for speed and scale on Base testnet.
 
 ---
 
@@ -44,7 +44,7 @@ Built on **Monad testnet**, Harbr delivers high-speed, low-cost transactions wit
 
 - **Frontend**: Next.js + Tailwind + Privy 
 - **Backend**: Django REST Framework ...
-- **Smart Contracts**: Solidity deployed on Monad—handles market liquidity, betting, resolution, and rewards  
+- **Smart Contracts**: Solidity deployed on Base—handles market liquidity, betting, resolution, and rewards  
 - **Chain Tools**: Magic Eden, Opensea, Alchemy (NFT discovery), Ethers.js or Reown adapter for wallet integration
 
 ---
